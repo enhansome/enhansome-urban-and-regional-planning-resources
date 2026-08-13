@@ -205,7 +205,7 @@
             "last_commit": "2026-07-30T16:29:42Z",
             "owner": "marceloprates",
             "repo": "prettymaps",
-            "stars": 12313
+            "stars": 12314
           }
         },
         {
@@ -216,7 +216,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:30:11Z",
+            "last_commit": "2026-08-13T14:27:50Z",
             "owner": "python-visualization",
             "repo": "folium",
             "stars": 7395
@@ -233,7 +233,7 @@
             "last_commit": "2026-07-31T17:24:41Z",
             "owner": "gboeing",
             "repo": "osmnx",
-            "stars": 5808
+            "stars": 5809
           }
         },
         {
@@ -272,7 +272,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:10:01Z",
+            "last_commit": "2026-08-13T16:43:16Z",
             "owner": "rasterio",
             "repo": "rasterio",
             "stars": 2558
@@ -531,7 +531,7 @@
             "last_commit": "2026-05-27T21:17:31Z",
             "owner": "chartjs",
             "repo": "Chart.js",
-            "stars": 67640
+            "stars": 67638
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-07-15T09:47:26Z",
             "owner": "ai-collection",
             "repo": "ai-collection",
-            "stars": 9107
+            "stars": 9108
           }
         },
         {
@@ -664,7 +664,7 @@
             "last_commit": "2026-07-24T14:45:42Z",
             "owner": "MobilityData",
             "repo": "awesome-transit",
-            "stars": 1816
+            "stars": 1817
           }
         },
         {
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:21:39.798Z",
+    "last_updated": "2026-08-13T19:56:24.431Z",
     "original_repository": "APA-Technology-Division/urban-and-regional-planning-resources",
     "original_repository_sha": "b9234b6708ceb64511b63d3b14de2dacd7443d19",
     "enhanced_repository": "enhansome/enhansome-urban-and-regional-planning-resources",
