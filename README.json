@@ -205,7 +205,7 @@
             "last_commit": "2026-07-30T16:29:42Z",
             "owner": "marceloprates",
             "repo": "prettymaps",
-            "stars": 12316
+            "stars": 12407
           }
         },
         {
@@ -216,7 +216,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:36:45Z",
+            "last_commit": "2026-08-17T13:45:40Z",
             "owner": "python-visualization",
             "repo": "folium",
             "stars": 7395
@@ -233,7 +233,7 @@
             "last_commit": "2026-07-31T17:24:41Z",
             "owner": "gboeing",
             "repo": "osmnx",
-            "stars": 5812
+            "stars": 5813
           }
         },
         {
@@ -244,10 +244,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T15:47:36Z",
+            "last_commit": "2026-08-17T17:06:36Z",
             "owner": "gee-community",
             "repo": "geemap",
-            "stars": 4013
+            "stars": 4012
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-10T21:44:49Z",
             "owner": "opengeos",
             "repo": "leafmap",
-            "stars": 3757
+            "stars": 3756
           }
         },
         {
@@ -446,7 +446,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-10T03:40:10Z",
+            "last_commit": "2026-08-17T02:49:07Z",
             "owner": "r-spatial",
             "repo": "rgee",
             "stars": 776
@@ -531,7 +531,7 @@
             "last_commit": "2026-05-27T21:17:31Z",
             "owner": "chartjs",
             "repo": "Chart.js",
-            "stars": 67644
+            "stars": 67643
           }
         },
         {
@@ -545,7 +545,7 @@
             "last_commit": "2026-08-12T13:36:43Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10431
+            "stars": 10432
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-07-15T09:47:26Z",
             "owner": "ai-collection",
             "repo": "ai-collection",
-            "stars": 9112
+            "stars": 9113
           }
         },
         {
@@ -608,7 +608,7 @@
             "last_commit": "2026-07-21T09:10:54Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5477
+            "stars": 5479
           }
         },
         {
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:22:38.651Z",
+    "last_updated": "2026-08-17T19:30:24.633Z",
     "original_repository": "APA-Technology-Division/urban-and-regional-planning-resources",
     "original_repository_sha": "b9234b6708ceb64511b63d3b14de2dacd7443d19",
     "enhanced_repository": "enhansome/enhansome-urban-and-regional-planning-resources",
