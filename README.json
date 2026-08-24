@@ -17,7 +17,7 @@
                 "last_commit": "2024-11-07T17:13:14Z",
                 "owner": "microsoft",
                 "repo": "USBuildingFootprints",
-                "stars": 2250
+                "stars": 2251
               }
             }
           ],
@@ -274,7 +274,7 @@
                 "last_commit": "2026-07-30T16:29:42Z",
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 13978
+                "stars": 13986
               }
             },
             {
@@ -289,7 +289,7 @@
                 "last_commit": "2026-08-24T13:58:07Z",
                 "owner": "python-visualization",
                 "repo": "folium",
-                "stars": 7393
+                "stars": 7394
               }
             },
             {
@@ -346,7 +346,7 @@
                 "archived": false,
                 "id": 14116604,
                 "language": "Python",
-                "last_commit": "2026-08-23T23:10:43Z",
+                "last_commit": "2026-08-24T17:06:23Z",
                 "owner": "rasterio",
                 "repo": "rasterio",
                 "stars": 2564
@@ -379,7 +379,7 @@
                 "last_commit": "2026-08-21T10:01:23Z",
                 "owner": "UDST",
                 "repo": "urbansim",
-                "stars": 544
+                "stars": 545
               }
             },
             {
@@ -771,7 +771,7 @@
                 "last_commit": "2026-08-21T10:01:23Z",
                 "owner": "UDST",
                 "repo": "urbansim",
-                "stars": 544
+                "stars": 545
               }
             }
           ],
@@ -821,7 +821,7 @@
                 "last_commit": "2026-07-15T09:47:26Z",
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9125
+                "stars": 9127
               }
             },
             {
@@ -836,7 +836,7 @@
                 "last_commit": "2026-07-21T09:10:54Z",
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5497
+                "stars": 5498
               }
             },
             {
@@ -866,7 +866,7 @@
                 "last_commit": "2026-07-23T13:51:40Z",
                 "owner": "tmcw",
                 "repo": "awesome-geojson",
-                "stars": 2529
+                "stars": 2530
               }
             },
             {
@@ -881,7 +881,7 @@
                 "last_commit": "2026-01-05T18:48:16Z",
                 "owner": "brycejohnston",
                 "repo": "awesome-agriculture",
-                "stars": 1861
+                "stars": 1862
               }
             },
             {
@@ -896,7 +896,7 @@
                 "last_commit": "2026-07-24T14:45:42Z",
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1820
+                "stars": 1821
               }
             },
             {
@@ -924,7 +924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:27:39.700Z",
+    "last_updated": "2026-08-24T19:32:15.349Z",
     "original_repository": "APA-Technology-Division/urban-and-regional-planning-resources",
     "original_repository_id": 290361286,
     "original_repository_sha": "b9234b6708ceb64511b63d3b14de2dacd7443d19",
