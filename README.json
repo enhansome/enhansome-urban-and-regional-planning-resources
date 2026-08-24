@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "description": "Data resources that are publicly available for use. Licenses may apply.\nOpen Data Sites and national scale datasets should be near the top of each section.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "USBuildingFootprints",
+              "description": "Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:Article.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137255598,
+                "language": null,
+                "last_commit": "2024-11-07T17:13:14Z",
+                "owner": "microsoft",
+                "repo": "USBuildingFootprints",
+                "stars": 2250
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Built Environment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Census Reporter",
+              "description": "An open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be embedded as HTML iframes. Additional Information:License: MIT License Geographic Coverage: Contains geographies matching the coverage and scale of the ACS 2019 1-year and 5-year estimates. Provider: About Page. Additional Links: GitHub Repository.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10183514,
+                "language": "HTML",
+                "last_commit": "2026-08-17T21:48:53Z",
+                "owner": "censusreporter",
+                "repo": "censusreporter",
+                "stars": 827
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Demographic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "National Zoning & Land Use Database",
+              "description": "This GitHub project catalogs major metros municipal zoning ordinances in plain text. It can be a useful reference for comparing ordinances or perhaps fine tuning language models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 587928665,
+                "language": "Python",
+                "last_commit": "2024-05-11T03:59:04Z",
+                "owner": "mtmleczko",
+                "repo": "nzlud",
+                "stars": 73
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Land Use and Land Cover"
+        }
+      ],
+      "title": "Public Data Resources"
+    },
+    {
       "description": "A collection of urban planning related data specifications and standards for use as part of programs & projects.",
       "items": [
         {
@@ -202,7 +274,7 @@
                 "last_commit": "2026-07-30T16:29:42Z",
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 13903
+                "stars": 13978
               }
             },
             {
@@ -214,7 +286,7 @@
                 "archived": false,
                 "id": 9952134,
                 "language": "Python",
-                "last_commit": "2026-08-23T14:00:55Z",
+                "last_commit": "2026-08-24T13:58:07Z",
                 "owner": "python-visualization",
                 "repo": "folium",
                 "stars": 7393
@@ -274,7 +346,7 @@
                 "archived": false,
                 "id": 14116604,
                 "language": "Python",
-                "last_commit": "2026-08-20T16:02:25Z",
+                "last_commit": "2026-08-23T23:10:43Z",
                 "owner": "rasterio",
                 "repo": "rasterio",
                 "stars": 2564
@@ -461,7 +533,7 @@
                 "archived": false,
                 "id": 205997187,
                 "language": "R",
-                "last_commit": "2026-08-17T02:49:07Z",
+                "last_commit": "2026-08-24T02:52:20Z",
                 "owner": "r-spatial",
                 "repo": "rgee",
                 "stars": 776
@@ -553,7 +625,7 @@
                 "last_commit": "2026-05-27T21:17:31Z",
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67659
+                "stars": 67660
               }
             },
             {
@@ -568,7 +640,7 @@
                 "last_commit": "2026-08-18T17:02:51Z",
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10450
+                "stars": 10455
               }
             },
             {
@@ -590,9 +662,147 @@
           "description": "Front-end web related packages and resources.",
           "node_type": "group",
           "title": "Web and JS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Urban Informatics & Visualization-Berkeley",
+              "description": "Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Notebook examples. Provides various resources to applied Python in planning contexts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61844712,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-12-07T20:34:48Z",
+                "owner": "waddell",
+                "repo": "urban-informatics-and-visualization",
+                "stars": 242
+              }
+            }
+          ],
+          "description": "Resources for planners learning coding and urban informatics.",
+          "node_type": "group",
+          "title": "Learning to Code"
         }
       ],
       "title": "Planning Coding Resources"
+    },
+    {
+      "description": "Software and platforms for planners and those interested in the built environment.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "City Energy Analyst",
+              "description": "A series of open-source tools for the analysis and optimization of urban energy systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49491341,
+                "language": "Python",
+                "last_commit": "2026-08-19T15:35:37Z",
+                "owner": "architecture-building-systems",
+                "repo": "CityEnergyAnalyst",
+                "stars": 272
+              }
+            }
+          ],
+          "description": "Software, tools, and platforms intended to aid environmental planning or climate adaptation & mitigation planning.",
+          "node_type": "group",
+          "title": "Environmental and Climate Planning Tools and Platforms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BlenderGIS",
+              "description": "A free and open-source add on for Blender which allows users to explore, query, and visualize data directly through Blender's GUI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19577136,
+                "language": "Python",
+                "last_commit": "2025-12-20T18:19:10Z",
+                "owner": "domlysz",
+                "repo": "BlenderGIS",
+                "stars": 9315
+              }
+            }
+          ],
+          "description": "Software, tools, and platforms for geospatial visualization.",
+          "node_type": "group",
+          "title": "Geospatial Data and Visualization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CityEngine",
+              "description": "Advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that can help quickly create streets & buildings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41718290,
+                "language": "Python",
+                "last_commit": "2026-03-23T05:12:34Z",
+                "owner": "d-wasserman",
+                "repo": "Complete_Street_Rule",
+                "stars": 217
+              }
+            }
+          ],
+          "description": "Software, tools, and platforms to assist with urban design and similar creative applications in built environments. This includes 3D modeling tools, rendering, and different XR applications.",
+          "node_type": "group",
+          "title": "Urban Design Tools and Platforms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UrbanCanvas",
+              "description": "Modeler is a web-based platform designed for planners and modelers to generate long-range, small area socioeconomic forecasts using UrbanSim to inform Regional Transportation Plans.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12128390,
+                "language": "Python",
+                "last_commit": "2026-08-21T10:01:23Z",
+                "owner": "UDST",
+                "repo": "urbansim",
+                "stars": 544
+              }
+            }
+          ],
+          "description": "Software, tools, and platforms intended to assist general urban planning tasks and processes.",
+          "node_type": "group",
+          "title": "Urban Planning Tools and Platforms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tile2Net",
+              "description": "An end-to-end tool for automated mapping of pedestrian infrastructure from aerial imagery. It provides a deep learning models that semantically segments pedestrian infrastructure from imagery for digitization. It is also available on the Esri Atlas of models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 482000439,
+                "language": "Python",
+                "last_commit": "2026-08-23T11:29:35Z",
+                "owner": "VIDA-NYU",
+                "repo": "tile2net",
+                "stars": 225
+              }
+            }
+          ],
+          "description": "Software, tools, and platforms intended to assist with transportation planning tasks and processes.",
+          "node_type": "group",
+          "title": "Transportation Planning Tools and Platforms"
+        }
+      ],
+      "title": "Platforms and Software Resources"
     },
     {
       "description": "Other types of planning data & technology resources. They are a good source of inspiration to contribute to this repo for example, but we don't need to duplicate efforts.",
@@ -611,7 +821,7 @@
                 "last_commit": "2026-07-15T09:47:26Z",
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9126
+                "stars": 9125
               }
             },
             {
@@ -626,7 +836,7 @@
                 "last_commit": "2026-07-21T09:10:54Z",
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5496
+                "stars": 5497
               }
             },
             {
@@ -671,7 +881,7 @@
                 "last_commit": "2026-01-05T18:48:16Z",
                 "owner": "brycejohnston",
                 "repo": "awesome-agriculture",
-                "stars": 1860
+                "stars": 1861
               }
             },
             {
@@ -714,7 +924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:24:06.147Z",
+    "last_updated": "2026-08-24T14:27:39.700Z",
     "original_repository": "APA-Technology-Division/urban-and-regional-planning-resources",
     "original_repository_id": 290361286,
     "original_repository_sha": "b9234b6708ceb64511b63d3b14de2dacd7443d19",
