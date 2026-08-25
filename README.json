@@ -123,7 +123,7 @@
                 "archived": false,
                 "id": 47434420,
                 "language": null,
-                "last_commit": "2026-08-06T18:57:04Z",
+                "last_commit": "2026-08-25T13:33:26Z",
                 "owner": "MobilityData",
                 "repo": "gbfs",
                 "stars": 914
@@ -274,7 +274,7 @@
                 "last_commit": "2026-07-30T16:29:42Z",
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14003
+                "stars": 14040
               }
             },
             {
@@ -286,7 +286,7 @@
                 "archived": false,
                 "id": 9952134,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:42:20Z",
+                "last_commit": "2026-08-25T14:04:57Z",
                 "owner": "python-visualization",
                 "repo": "folium",
                 "stars": 7394
@@ -334,7 +334,7 @@
                 "last_commit": "2026-08-24T21:24:48Z",
                 "owner": "opengeos",
                 "repo": "leafmap",
-                "stars": 3762
+                "stars": 3763
               }
             },
             {
@@ -418,10 +418,10 @@
               "description": "This is a package of classes and functions to streamline the representation and analysis of urban networks. This library includes a Python implementation of the Urban Network Analysis Tools.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "id": 551476383,
                 "language": "Jupyter Notebook",
-                "last_commit": "2025-02-17T11:49:30Z",
+                "last_commit": "2026-08-25T09:44:48Z",
                 "owner": "City-Form-Lab",
                 "repo": "madina",
                 "stars": 214
@@ -625,7 +625,7 @@
                 "last_commit": "2026-05-27T21:17:31Z",
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67660
+                "stars": 67661
               }
             },
             {
@@ -640,7 +640,7 @@
                 "last_commit": "2026-08-18T17:02:51Z",
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10457
+                "stars": 10459
               }
             },
             {
@@ -727,7 +727,7 @@
                 "last_commit": "2025-12-20T18:19:10Z",
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9318
+                "stars": 9321
               }
             }
           ],
@@ -851,7 +851,7 @@
                 "last_commit": "2026-08-23T17:34:13Z",
                 "owner": "protontypes",
                 "repo": "open-sustainable-technology",
-                "stars": 2543
+                "stars": 2544
               }
             },
             {
@@ -924,7 +924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:46.274Z",
+    "last_updated": "2026-08-25T19:34:09.647Z",
     "original_repository": "APA-Technology-Division/urban-and-regional-planning-resources",
     "original_repository_id": 290361286,
     "original_repository_sha": "b9234b6708ceb64511b63d3b14de2dacd7443d19",
