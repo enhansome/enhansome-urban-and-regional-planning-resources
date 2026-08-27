@@ -274,7 +274,7 @@
                 "last_commit": "2026-07-30T16:29:42Z",
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14080
+                "stars": 14088
               }
             },
             {
@@ -625,7 +625,7 @@
                 "last_commit": "2026-05-27T21:17:31Z",
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67664
+                "stars": 67669
               }
             },
             {
@@ -640,7 +640,7 @@
                 "last_commit": "2026-08-18T17:02:51Z",
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10461
+                "stars": 10460
               }
             },
             {
@@ -821,7 +821,7 @@
                 "last_commit": "2026-07-15T09:47:26Z",
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9129
+                "stars": 9130
               }
             },
             {
@@ -836,7 +836,7 @@
                 "last_commit": "2026-07-21T09:10:54Z",
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5501
+                "stars": 5502
               }
             },
             {
@@ -881,7 +881,7 @@
                 "last_commit": "2026-01-05T18:48:16Z",
                 "owner": "brycejohnston",
                 "repo": "awesome-agriculture",
-                "stars": 1863
+                "stars": 1864
               }
             },
             {
@@ -896,7 +896,7 @@
                 "last_commit": "2026-07-24T14:45:42Z",
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1821
+                "stars": 1822
               }
             },
             {
@@ -924,9 +924,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:42:16.776Z",
-    "original_repository": "APA-Technology-Division/urban-and-regional-planning-resources",
-    "original_repository_id": 290361286,
+    "last_updated": "2026-08-27T12:07:23.506Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 290361286,
+      "language": null,
+      "last_commit": "2026-07-13T04:07:40Z",
+      "owner": "APA-Technology-Division",
+      "repo": "urban-and-regional-planning-resources",
+      "stars": 360
+    },
     "original_repository_sha": "b9234b6708ceb64511b63d3b14de2dacd7443d19",
     "enhanced_repository": "enhansome/enhansome-urban-and-regional-planning-resources",
     "enhanced_repository_description": null,
