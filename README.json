@@ -417,10 +417,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-30T16:29:42Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14120,
+                "stars": 14132,
                 "topics": [
                   "cartography",
                   "generative-art",
@@ -445,11 +445,11 @@
                 "id": 9952134,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T23:00:10Z",
+                "last_commit": "2026-08-29T17:05:51Z",
                 "open_issues": 70,
                 "owner": "python-visualization",
                 "repo": "folium",
-                "stars": 7394,
+                "stars": 7396,
                 "topics": [
                   "data-science",
                   "data-visualization",
@@ -560,7 +560,7 @@
                 "open_issues": 3,
                 "owner": "opengeos",
                 "repo": "leafmap",
-                "stars": 3766,
+                "stars": 3767,
                 "topics": [
                   "data-science",
                   "dataviz",
@@ -626,7 +626,7 @@
                 "id": 778569,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-16T10:24:56Z",
+                "last_commit": "2026-08-29T14:57:07Z",
                 "open_issues": 33,
                 "owner": "eskerda",
                 "repo": "pybikes",
@@ -744,7 +744,7 @@
                 "open_issues": 23,
                 "owner": "kuanb",
                 "repo": "peartree",
-                "stars": 208,
+                "stars": 207,
                 "topics": [
                   "gis",
                   "graphs",
@@ -1068,10 +1068,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-05-27T21:17:31Z",
-                "open_issues": 584,
+                "open_issues": 585,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67670,
+                "stars": 67672,
                 "topics": [
                   "canvas",
                   "chart",
@@ -1236,7 +1236,7 @@
                 "open_issues": 320,
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9329,
+                "stars": 9333,
                 "topics": [
                   "3d",
                   "3d-map",
@@ -1386,11 +1386,11 @@
                 "id": 584639396,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-07-15T09:47:26Z",
+                "last_commit": "2026-08-29T12:18:16Z",
                 "open_issues": 24,
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9135,
+                "stars": 9137,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1425,7 +1425,7 @@
                 "open_issues": 63,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5503,
+                "stars": 5504,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1455,7 +1455,7 @@
                 "open_issues": 77,
                 "owner": "protontypes",
                 "repo": "open-sustainable-technology",
-                "stars": 2545,
+                "stars": 2546,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1614,7 +1614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:46:20.159Z",
+    "last_updated": "2026-08-29T21:33:27.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
