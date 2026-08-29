@@ -18,7 +18,8 @@
                 "owner": "microsoft",
                 "repo": "USBuildingFootprints",
                 "stars": 2252
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "censusreporter",
                 "repo": "censusreporter",
                 "stars": 827
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": null,
@@ -62,7 +64,8 @@
                 "owner": "mtmleczko",
                 "repo": "nzlud",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": null,
@@ -90,7 +93,8 @@
                 "owner": "Azure",
                 "repo": "opendigitaltwins-building",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -105,7 +109,8 @@
                 "owner": "open-data-standards",
                 "repo": "permitdata.org",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": null,
@@ -127,7 +132,8 @@
                 "owner": "MobilityData",
                 "repo": "gbfs",
                 "stars": 914
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -142,7 +148,8 @@
                 "owner": "openmobilityfoundation",
                 "repo": "mobility-data-specification",
                 "stars": 746
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -157,7 +164,8 @@
                 "owner": "sharedstreets",
                 "repo": "sharedstreets-ref-system",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -172,7 +180,8 @@
                 "owner": "zephyr-data-specs",
                 "repo": "GMNS",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -187,7 +196,8 @@
                 "owner": "MobilityData",
                 "repo": "gtfs-flex",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -202,7 +212,8 @@
                 "owner": "openmobilityfoundation",
                 "repo": "curb-data-specification",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -217,7 +228,8 @@
                 "owner": "OpenSidewalks",
                 "repo": "OpenSidewalks-Schema",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -232,7 +244,8 @@
                 "owner": "d-wasserman",
                 "repo": "shared-row",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -247,7 +260,8 @@
                 "owner": "vta",
                 "repo": "Managed-and-Tolled-Lanes-Feed-Specification",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": null,
@@ -274,8 +288,9 @@
                 "last_commit": "2026-07-30T16:29:42Z",
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14101
-              }
+                "stars": 14120
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -286,11 +301,12 @@
                 "archived": false,
                 "id": 9952134,
                 "language": "Python",
-                "last_commit": "2026-08-27T22:56:06Z",
+                "last_commit": "2026-08-28T23:00:10Z",
                 "owner": "python-visualization",
                 "repo": "folium",
                 "stars": 7394
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -304,8 +320,9 @@
                 "last_commit": "2026-07-31T17:24:41Z",
                 "owner": "gboeing",
                 "repo": "osmnx",
-                "stars": 5828
-              }
+                "stars": 5830
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -319,8 +336,9 @@
                 "last_commit": "2026-08-27T18:54:31Z",
                 "owner": "gee-community",
                 "repo": "geemap",
-                "stars": 4018
-              }
+                "stars": 4020
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -334,8 +352,9 @@
                 "last_commit": "2026-08-24T21:24:48Z",
                 "owner": "opengeos",
                 "repo": "leafmap",
-                "stars": 3764
-              }
+                "stars": 3766
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -346,11 +365,12 @@
                 "archived": false,
                 "id": 14116604,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:12:07Z",
+                "last_commit": "2026-08-28T22:06:59Z",
                 "owner": "rasterio",
                 "repo": "rasterio",
-                "stars": 2564
-              }
+                "stars": 2565
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -365,7 +385,8 @@
                 "owner": "eskerda",
                 "repo": "pybikes",
                 "stars": 605
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -380,7 +401,8 @@
                 "owner": "UDST",
                 "repo": "urbansim",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -395,7 +417,8 @@
                 "owner": "oturns",
                 "repo": "geosnap",
                 "stars": 274
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -410,7 +433,8 @@
                 "owner": "dgrtwo",
                 "repo": "gleam",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -425,7 +449,8 @@
                 "owner": "City-Form-Lab",
                 "repo": "madina",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -440,7 +465,8 @@
                 "owner": "kuanb",
                 "repo": "peartree",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -455,7 +481,8 @@
                 "owner": "uscuni",
                 "repo": "neatnet",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -470,7 +497,8 @@
                 "owner": "lgervasoni",
                 "repo": "urbansprawl",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -485,7 +513,8 @@
                 "owner": "abdullahselek",
                 "repo": "HerePy",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -500,7 +529,8 @@
                 "owner": "streettraffic",
                 "repo": "streettraffic",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -515,7 +545,8 @@
                 "owner": "tariqshihadah",
                 "repo": "linref",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": "Python Libraries & Related Resources.",
@@ -537,7 +568,8 @@
                 "owner": "r-spatial",
                 "repo": "rgee",
                 "stars": 777
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -552,7 +584,8 @@
                 "owner": "r-spatial",
                 "repo": "leafgl",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -566,8 +599,9 @@
                 "last_commit": "2026-07-21T23:15:18Z",
                 "owner": "ipeaGIT",
                 "repo": "r5r",
-                "stars": 241
-              }
+                "stars": 240
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": "R Packages & Related Resources.",
@@ -589,7 +623,8 @@
                 "owner": "codeforamerica",
                 "repo": "civic-tech-patterns",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -604,7 +639,8 @@
                 "owner": "global-healthy-liveable-cities",
                 "repo": "global-indicators",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": "Other coding special projects and/or other resources.",
@@ -625,8 +661,9 @@
                 "last_commit": "2026-05-27T21:17:31Z",
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67668
-              }
+                "stars": 67670
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -640,8 +677,9 @@
                 "last_commit": "2026-08-18T17:02:51Z",
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10461
-              }
+                "stars": 10463
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -656,7 +694,8 @@
                 "owner": "WSDOT-GIS",
                 "repo": "GTFS-JS",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": "Front-end web related packages and resources.",
@@ -678,7 +717,8 @@
                 "owner": "waddell",
                 "repo": "urban-informatics-and-visualization",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": "Resources for planners learning coding and urban informatics.",
@@ -706,7 +746,8 @@
                 "owner": "architecture-building-systems",
                 "repo": "CityEnergyAnalyst",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": "Software, tools, and platforms intended to aid environmental planning or climate adaptation & mitigation planning.",
@@ -727,8 +768,9 @@
                 "last_commit": "2025-12-20T18:19:10Z",
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9327
-              }
+                "stars": 9328
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": "Software, tools, and platforms for geospatial visualization.",
@@ -750,7 +792,8 @@
                 "owner": "d-wasserman",
                 "repo": "Complete_Street_Rule",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": "Software, tools, and platforms to assist with urban design and similar creative applications in built environments. This includes 3D modeling tools, rendering, and different XR applications.",
@@ -772,7 +815,8 @@
                 "owner": "UDST",
                 "repo": "urbansim",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": "Software, tools, and platforms intended to assist general urban planning tasks and processes.",
@@ -794,7 +838,8 @@
                 "owner": "VIDA-NYU",
                 "repo": "tile2net",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": "Software, tools, and platforms intended to assist with transportation planning tasks and processes.",
@@ -821,8 +866,9 @@
                 "last_commit": "2026-07-15T09:47:26Z",
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9130
-              }
+                "stars": 9135
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -837,7 +883,8 @@
                 "owner": "sshuair",
                 "repo": "awesome-gis",
                 "stars": 5503
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -848,11 +895,12 @@
                 "archived": false,
                 "id": 296566912,
                 "language": null,
-                "last_commit": "2026-08-23T17:34:13Z",
+                "last_commit": "2026-08-28T07:26:23Z",
                 "owner": "protontypes",
                 "repo": "open-sustainable-technology",
                 "stars": 2545
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -867,7 +915,8 @@
                 "owner": "tmcw",
                 "repo": "awesome-geojson",
                 "stars": 2531
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -882,7 +931,8 @@
                 "owner": "brycejohnston",
                 "repo": "awesome-agriculture",
                 "stars": 1864
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -896,8 +946,9 @@
                 "last_commit": "2026-07-24T14:45:42Z",
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1822
-              }
+                "stars": 1823
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             },
             {
               "node_type": "item",
@@ -912,7 +963,8 @@
                 "owner": "MobilityData",
                 "repo": "gbfs-tools-and-resources",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T02:00:56.263Z"
             }
           ],
           "description": "This page is registered as an awesome-list, but similar GitHub repositories can be listed here. These are managed curations of resources that relate to different topics.",
@@ -924,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:26:29.523Z",
+    "last_updated": "2026-08-29T02:00:56.263Z",
     "original_repository_info": {
       "archived": false,
       "id": 290361286,
