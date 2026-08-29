@@ -364,7 +364,7 @@ Python Libraries & Related Resources.
 * [OSMnx](https://github.com/gboeing/osmnx) ⭐ 5,830 | 🐛 2 | 🌐 Python | 📅 2026-07-31 - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 * [Geemap](https://github.com/giswqs/geemap) ⭐ 4,020 | 🐛 54 | 🌐 Python | 📅 2026-08-27 - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 * [Leafmap](https://github.com/giswqs/leafmap) ⭐ 3,766 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - A free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
-* [rasterio](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) ⭐ 2,565 | 🐛 156 | 🌐 Python | 📅 2026-08-28 - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
+* [rasterio](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) ⭐ 2,566 | 🐛 156 | 🌐 Python | 📅 2026-08-28 - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
 * [Pybikes](https://github.com/eskerda/pybikes) ⭐ 605 | 🐛 33 | 🌐 Python | 📅 2026-08-16 - Provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 * [UrbanSim](https://github.com/udst/urbansim) ⭐ 544 | 🐛 26 | 🌐 Python | 📅 2026-08-21 - A platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
 * [Geosnap](https://github.com/spatialucr/geosnap) ⭐ 274 | 🐛 18 | 🌐 Python | 📅 2026-03-09 - Geospatial & temporal neighborhood analysis using US Census Data.
@@ -422,7 +422,7 @@ Other coding special projects and/or other resources.
 Front-end web related packages and resources.
 
 * [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub](https://github.com/chartjs/Chart.js) ⭐ 67,670 | 🐛 584 | 🌐 JavaScript | 📅 2026-05-27.
-* [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf) ⭐ 10,463 | 🐛 283 | 🌐 TypeScript | 📅 2026-08-18.
+* [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf) ⭐ 10,462 | 🐛 283 | 🌐 TypeScript | 📅 2026-08-18.
 * [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) ⭐ 1 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-04 - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 * [Bootstrap](https://getbootstrap.com/) - Widely-used, well documented library for quick design and customization of websites. Additional Information: [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 * [Leaflet](https://leafletjs.com/) - Open-source JavaScript library for mobile-friendly interactive maps. Plugins available to extend functionality (e.g., storymaps, heatmaps, animation). Additional Information: [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
@@ -490,7 +490,7 @@ Software, tools, and platforms intended to aid environmental planning or climate
 
 Software, tools, and platforms for geospatial visualization.
 
-* [BlenderGIS](https://github.com/domlysz/BlenderGIS) ⭐ 9,328 | 🐛 320 | 🌐 Python | 📅 2025-12-20 - A free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
+* [BlenderGIS](https://github.com/domlysz/BlenderGIS) ⭐ 9,329 | 🐛 320 | 🌐 Python | 📅 2025-12-20 - A free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
 * [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (ESRI).
 * [QGIS](https://qgis.org/en/site/) - This open source GIS suite allows users to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD and mobile devices.
 * [CARTO](https://carto.com/) - A world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.

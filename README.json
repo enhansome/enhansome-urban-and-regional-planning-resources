@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computer generated building footprints for the United States",
+                "homepage": null,
                 "id": 137255598,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-07T17:13:14Z",
+                "open_issues": 47,
                 "owner": "microsoft",
                 "repo": "USBuildingFootprints",
-                "stars": 2252
+                "stars": 2252,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Census Reporter is a Knight News Challenge-funded project to make it easier for journalists to write stories using information from the U.S. Census bureau.",
+                "homepage": "http://censusreporter.org",
                 "id": 10183514,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:31:22Z",
+                "open_issues": 99,
                 "owner": "censusreporter",
                 "repo": "censusreporter",
-                "stars": 827
+                "stars": 827,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -58,12 +68,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source data and code for National Zoning and Land Use Database",
+                "homepage": null,
                 "id": 587928665,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-11T03:59:04Z",
+                "open_issues": 1,
                 "owner": "mtmleczko",
                 "repo": "nzlud",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -87,12 +102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Digital Twins Definition Language (DTDL) RealEstateCore Ontology",
+                "homepage": null,
                 "id": 269142377,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-04-23T08:33:19Z",
+                "open_issues": 24,
                 "owner": "Azure",
                 "repo": "opendigitaltwins-building",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -103,12 +123,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":hammer: A website for the BLDS Data Specification",
+                "homepage": "https://permitdata.org",
                 "id": 32079977,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-05-23T13:46:08Z",
+                "open_issues": 41,
                 "owner": "open-data-standards",
                 "repo": "permitdata.org",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "government",
+                  "open-data",
+                  "opendata",
+                  "pemits",
+                  "standards"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -126,12 +157,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.     Maintained by MobilityData",
+                "homepage": "https://gbfs.org",
                 "id": 47434420,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T13:33:26Z",
+                "open_issues": 3,
                 "owner": "MobilityData",
                 "repo": "gbfs",
-                "stars": 914
+                "stars": 914,
+                "topics": [
+                  "bike-share",
+                  "bike-sharing",
+                  "bikesharing",
+                  "carshare",
+                  "carsharing",
+                  "civic-tech",
+                  "gbfs",
+                  "gbfs-documentation",
+                  "mobility",
+                  "mobility-as-a-service",
+                  "mobilitydata",
+                  "open-data",
+                  "scooter-sharing",
+                  "shared-mobility",
+                  "urban-mobility"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -142,12 +194,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A data specification to enable right-of-way regulation, digital policy, geofencing, and two-way communication between mobility companies and public agencies worldwide for any regulated, shared, or agency vehicle.",
+                "homepage": "https://www.openmobilityfoundation.org/about-mds/",
                 "id": 132033870,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-09T03:03:08Z",
+                "open_issues": 24,
                 "owner": "openmobilityfoundation",
                 "repo": "mobility-data-specification",
-                "stars": 746
+                "stars": 746,
+                "topics": [
+                  "autonomous-vehicles",
+                  "bike-share",
+                  "carshare",
+                  "delivery",
+                  "delivery-robot",
+                  "fixed-route",
+                  "geofencing",
+                  "mds",
+                  "micromobility",
+                  "mobility",
+                  "mobility-as-a-service",
+                  "mobility-data",
+                  "open-source",
+                  "passenger-services",
+                  "policy-as-code",
+                  "right-of-way",
+                  "robotaxi",
+                  "scooter-share",
+                  "scooters",
+                  "taxi"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -158,12 +236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making maps connectable: stable, non-proprietary IDs and data standards for streets",
+                "homepage": null,
                 "id": 107619622,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-02-24T08:27:24Z",
+                "open_issues": 12,
                 "owner": "sharedstreets",
                 "repo": "sharedstreets-ref-system",
-                "stars": 193
+                "stars": 193,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -174,12 +257,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General Modeling Network Specification",
+                "homepage": "https://zephyr-data-specs.github.io/GMNS/",
                 "id": 232607072,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-08-01T19:23:31Z",
+                "open_issues": 23,
                 "owner": "zephyr-data-specs",
                 "repo": "GMNS",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "highway-network",
+                  "network",
+                  "road-network",
+                  "specification",
+                  "transportation-planning"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -190,12 +284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOTICE: GTFS-Flex has been merged to GTFS. This repo is no longer up-to-date and will deprecated. Consult the google/transit repo for the up-to-date info.",
+                "homepage": "https://github.com/google/transit",
                 "id": 51524344,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-16T19:48:08Z",
+                "open_issues": 10,
                 "owner": "MobilityData",
                 "repo": "gtfs-flex",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -206,12 +305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A data specification to help cities manage their curb zone and parking programs and surrounding areas, and measure the utilization and impact.",
+                "homepage": "https://www.openmobilityfoundation.org/about-cds/",
                 "id": 356370306,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-27T15:36:06Z",
+                "open_issues": 13,
                 "owner": "openmobilityfoundation",
                 "repo": "curb-data-specification",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -222,12 +326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for the draft proposal of the OpenSidewalks schema",
+                "homepage": "https://sidewalks.washington.edu",
                 "id": 93186888,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-31T00:14:04Z",
+                "open_issues": 5,
                 "owner": "OpenSidewalks",
                 "repo": "OpenSidewalks-Schema",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -238,12 +347,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an open data specification for describing the right-of-way (ROW) for street centerline networks. It is intended to establish a common set of attributes (schema) to describe how space is allocated along a streets right of way from sidewalk edge to sidewalk edge. ",
+                "homepage": null,
                 "id": 185296939,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-09T03:13:39Z",
+                "open_issues": 3,
                 "owner": "d-wasserman",
                 "repo": "shared-row",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "data",
+                  "right-of-way",
+                  "row",
+                  "schema",
+                  "sharedstreets",
+                  "specification",
+                  "standard",
+                  "streets"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -254,12 +377,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proposal for a standard format for specifying Managed and Tolled Lanes ",
+                "homepage": null,
                 "id": 63281690,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2018-02-09T23:38:38Z",
+                "open_issues": 17,
                 "owner": "vta",
                 "repo": "Managed-and-Tolled-Lanes-Feed-Specification",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -283,12 +411,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+                "homepage": "https://prettymaps.streamlit.app/",
                 "id": 344802603,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-30T16:29:42Z",
+                "open_issues": 23,
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14120
+                "stars": 14120,
+                "topics": [
+                  "cartography",
+                  "generative-art",
+                  "jupyter-notebook",
+                  "maps",
+                  "matplotlib",
+                  "openstreetmap",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -299,12 +440,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Data. Leaflet.js Maps. ",
+                "homepage": "https://python-visualization.github.io/folium/",
                 "id": 9952134,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T23:00:10Z",
+                "open_issues": 70,
                 "owner": "python-visualization",
                 "repo": "folium",
-                "stars": 7394
+                "stars": 7394,
+                "topics": [
+                  "data-science",
+                  "data-visualization",
+                  "javascript",
+                  "maps",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -315,12 +467,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.",
+                "homepage": "https://osmnx.readthedocs.io",
                 "id": 64045935,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-31T17:24:41Z",
+                "open_issues": 2,
                 "owner": "gboeing",
                 "repo": "osmnx",
-                "stars": 5830
+                "stars": 5830,
+                "topics": [
+                  "geography",
+                  "geospatial",
+                  "gis",
+                  "mapping",
+                  "networks",
+                  "networkx",
+                  "openstreetmap",
+                  "osm",
+                  "osmnx",
+                  "overpass-api",
+                  "python",
+                  "routing",
+                  "spatial",
+                  "spatial-analysis",
+                  "spatial-data",
+                  "street-networks",
+                  "transport",
+                  "transportation",
+                  "urban",
+                  "urban-planning"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -331,12 +509,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python package for interactive geospatial analysis and visualization with Google Earth Engine.",
+                "homepage": "https://geemap.org",
                 "id": 245837930,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T18:54:31Z",
+                "open_issues": 54,
                 "owner": "gee-community",
                 "repo": "geemap",
-                "stars": 4020
+                "stars": 4020,
+                "topics": [
+                  "colab",
+                  "data-science",
+                  "dataviz",
+                  "earth-engine",
+                  "earthengine",
+                  "folium",
+                  "geospatial",
+                  "gis",
+                  "google-earth-engine",
+                  "image-processing",
+                  "ipyleaflet",
+                  "ipywidgets",
+                  "jupyter",
+                  "jupyter-notebook",
+                  "landsat",
+                  "mapping",
+                  "python",
+                  "remote-sensing",
+                  "streamlit",
+                  "streamlit-webapp"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -347,12 +551,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment",
+                "homepage": "https://leafmap.org",
                 "id": 346188421,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T21:24:48Z",
+                "open_issues": 3,
                 "owner": "opengeos",
                 "repo": "leafmap",
-                "stars": 3766
+                "stars": 3766,
+                "topics": [
+                  "data-science",
+                  "dataviz",
+                  "folium",
+                  "geoparquet",
+                  "geopython",
+                  "geospatial",
+                  "geospatial-analysis",
+                  "gis",
+                  "ipyleaflet",
+                  "jupyter",
+                  "jupyter-notebook",
+                  "leafmap",
+                  "mapping",
+                  "plotly",
+                  "python",
+                  "solara",
+                  "streamlit",
+                  "streamlit-webapp",
+                  "whiteboxtools"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -363,12 +592,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rasterio reads and writes geospatial raster datasets",
+                "homepage": "https://rasterio.readthedocs.io/",
                 "id": 14116604,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T22:06:59Z",
+                "open_issues": 156,
                 "owner": "rasterio",
                 "repo": "rasterio",
-                "stars": 2565
+                "stars": 2566,
+                "topics": [
+                  "cli",
+                  "cython",
+                  "gdal",
+                  "gis",
+                  "mapbox-satellite-oss",
+                  "python",
+                  "raster"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -379,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bike sharing + python = pybikes",
+                "homepage": "https://citybik.es",
                 "id": 778569,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-16T10:24:56Z",
+                "open_issues": 33,
                 "owner": "eskerda",
                 "repo": "pybikes",
-                "stars": 605
+                "stars": 605,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -395,12 +642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Platform for building statistical models of cities and regions",
+                "homepage": "https://udst.github.io/urbansim/",
                 "id": 12128390,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-21T10:01:23Z",
+                "open_issues": 26,
                 "owner": "UDST",
                 "repo": "urbansim",
-                "stars": 544
+                "stars": 544,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -411,12 +663,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Geospatial Neighborhood Analysis Package",
+                "homepage": "https://oturns.github.io/geosnap-guide",
                 "id": 149518412,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-03-09T04:45:20Z",
+                "open_issues": 18,
                 "owner": "oturns",
                 "repo": "geosnap",
-                "stars": 274
+                "stars": 274,
+                "topics": [
+                  "geodemographics",
+                  "neighborhood-dynamics",
+                  "spatial-analysis",
+                  "spatial-data-science",
+                  "urban-analytics",
+                  "urban-data-science",
+                  "urban-informatics",
+                  "urban-modeling"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -427,12 +693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creating interactive visualizations with Python",
+                "homepage": null,
                 "id": 18162527,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-16T16:24:38Z",
+                "open_issues": 5,
                 "owner": "dgrtwo",
                 "repo": "gleam",
-                "stars": 261
+                "stars": 261,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -443,12 +714,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Python library modeling pedestrian and bicycle trips over networks.",
+                "homepage": null,
                 "id": 551476383,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-25T09:44:48Z",
+                "open_issues": 9,
                 "owner": "City-Form-Lab",
                 "repo": "madina",
-                "stars": 214
+                "stars": 214,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -459,12 +735,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "peartree: A library for converting transit data into a directed graph for sketch network analysis.",
+                "homepage": null,
                 "id": 110452875,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-05T14:06:10Z",
+                "open_issues": 23,
                 "owner": "kuanb",
                 "repo": "peartree",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "gis",
+                  "graphs",
+                  "gtfs",
+                  "modeling",
+                  "network-analysis",
+                  "spatial-analysis",
+                  "transit"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -475,12 +764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Street geometry processing toolkit",
+                "homepage": "http://uscuni.org/neatnet/",
                 "id": 846012718,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-17T02:52:11Z",
+                "open_issues": 19,
                 "owner": "uscuni",
                 "repo": "neatnet",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -491,12 +785,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open framework for calculating spatial urban sprawl indices and performing disaggregated population estimates using open data",
+                "homepage": null,
                 "id": 112749050,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-03-26T10:28:56Z",
+                "open_issues": 1,
                 "owner": "lgervasoni",
                 "repo": "urbansprawl",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "demographics",
+                  "dispersion",
+                  "geospatial",
+                  "gis",
+                  "land-use",
+                  "land-use-mix",
+                  "open-data",
+                  "openstreetmap",
+                  "overpass-api",
+                  "population-density",
+                  "python",
+                  "spatial-analysis",
+                  "sustainability",
+                  "sustainable-development-goals",
+                  "transportation",
+                  "urban",
+                  "urban-accessibility",
+                  "urban-dispersion",
+                  "urban-planning",
+                  "urban-sprawl"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -507,12 +827,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library that provides a Python interface to the HERE location APIs.",
+                "homepage": "https://herepy.abdullahselek.com/",
                 "id": 108025351,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-07T08:00:50Z",
+                "open_issues": 3,
                 "owner": "abdullahselek",
                 "repo": "HerePy",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "api-wrapper",
+                  "ev-charging",
+                  "fleet-telematics",
+                  "geocoder",
+                  "heremaps",
+                  "isoline-routing",
+                  "maptiles",
+                  "places",
+                  "python-3",
+                  "reverse-geocoder",
+                  "routing",
+                  "traffic-api",
+                  "transit-routes",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -523,12 +863,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.com",
+                "homepage": "https://streettraffic.org/docs/docindex.html",
                 "id": 98345243,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-03-15T01:34:09Z",
+                "open_issues": 1,
                 "owner": "streettraffic",
                 "repo": "streettraffic",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -539,12 +884,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python library built on pandas and geopandas for linearly referenced data management, engineering, and analysis using the DataFrame accessor pattern (.lr).",
+                "homepage": "https://linref.readthedocs.io/",
                 "id": 453240525,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-18T22:43:27Z",
+                "open_issues": 6,
                 "owner": "tariqshihadah",
                 "repo": "linref",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "asset-management",
+                  "data-conflation",
+                  "data-science",
+                  "engineering",
+                  "geopandas",
+                  "geospatial",
+                  "gis",
+                  "linear-referencing",
+                  "pandas",
+                  "planning",
+                  "python",
+                  "sparse-matrix",
+                  "transportation"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -562,12 +926,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Earth Engine for R",
+                "homepage": "https://r-spatial.github.io/rgee/",
                 "id": 205997187,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T02:52:20Z",
+                "open_issues": 63,
                 "owner": "r-spatial",
                 "repo": "rgee",
-                "stars": 777
+                "stars": 777,
+                "topics": [
+                  "earth-engine",
+                  "earthengine",
+                  "google-earth-engine",
+                  "googleearthengine",
+                  "r",
+                  "spatial-analysis",
+                  "spatial-data"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -578,12 +955,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package for fast web gl rendering for leaflet",
+                "homepage": "https://r-spatial.github.io/leafgl/",
                 "id": 149975903,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-15T08:42:33Z",
+                "open_issues": 23,
                 "owner": "r-spatial",
                 "repo": "leafgl",
-                "stars": 289
+                "stars": 289,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -594,12 +976,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://ipeagit.github.io/r5r/",
                 "id": 285653536,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T23:15:18Z",
+                "open_issues": 34,
                 "owner": "ipeaGIT",
                 "repo": "r5r",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "gtfs",
+                  "java",
+                  "r",
+                  "r5",
+                  "router",
+                  "routing",
+                  "transport",
+                  "transport-networks"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -617,12 +1013,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "common patterns and anti-patterns for civic tech and civic apps",
+                "homepage": "http://codeforamerica.github.io/civic-tech-patterns",
                 "id": 7429339,
                 "language": "Ruby",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-05-07T00:01:11Z",
+                "open_issues": 39,
                 "owner": "codeforamerica",
                 "repo": "civic-tech-patterns",
-                "stars": 207
+                "stars": 207,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -633,12 +1034,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ARCHIVE COPY (see https://github.com/healthysustainablecities/global-indicators) An open-source tool for calculating spatial indicators for healthy, sustainable cities worldwide using open or custom data.",
+                "homepage": null,
                 "id": 817155592,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-06-19T06:22:55Z",
+                "open_issues": 0,
                 "owner": "global-healthy-liveable-cities",
                 "repo": "global-indicators",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -656,12 +1062,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple HTML5 Charts using the <canvas> tag",
+                "homepage": "https://www.chartjs.org/",
                 "id": 8843683,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-27T21:17:31Z",
+                "open_issues": 584,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67670
+                "stars": 67670,
+                "topics": [
+                  "canvas",
+                  "chart",
+                  "graph",
+                  "html5",
+                  "html5-charts",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -672,12 +1090,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular geospatial engine written in JavaScript and TypeScript",
+                "homepage": "https://turfjs.org",
                 "id": 13301038,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T17:02:51Z",
+                "open_issues": 283,
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10463
+                "stars": 10462,
+                "topics": [
+                  "algorithm",
+                  "computational-geometry",
+                  "geojson",
+                  "geospatial",
+                  "gis",
+                  "javascript",
+                  "mapping",
+                  "turf",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -688,12 +1121,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript library for working with GTFS data.",
+                "homepage": null,
                 "id": 15784737,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2020-11-04T20:21:29Z",
+                "open_issues": 3,
                 "owner": "WSDOT-GIS",
                 "repo": "GTFS-JS",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "general-transit-feed",
+                  "gtfs",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -711,12 +1153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Urban Informatics and Visualization (UC Berkeley CP255)",
+                "homepage": null,
                 "id": 61844712,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-12-07T20:34:48Z",
+                "open_issues": 0,
                 "owner": "waddell",
                 "repo": "urban-informatics-and-visualization",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -740,12 +1187,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "City Energy Analyst (CEA) is an open-source urban building energy modeling (UBEM) platform and computation tool for the design of low-carbon and highly efficient cities.",
+                "homepage": "https://www.cityenergyanalyst.com/",
                 "id": 49491341,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T15:35:37Z",
+                "open_issues": 122,
                 "owner": "architecture-building-systems",
                 "repo": "CityEnergyAnalyst",
-                "stars": 272
+                "stars": 272,
+                "topics": [
+                  "building-energy-modeling",
+                  "building-energy-simulation",
+                  "decarbonization",
+                  "district-cooling",
+                  "district-heating",
+                  "geospatial-analysis",
+                  "open-source",
+                  "python",
+                  "ubem",
+                  "urban-analytics",
+                  "urban-design"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -763,12 +1227,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blender addons to make the bridge between Blender and geographic data",
+                "homepage": null,
                 "id": 19577136,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-20T18:19:10Z",
+                "open_issues": 320,
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9328
+                "stars": 9329,
+                "topics": [
+                  "3d",
+                  "3d-map",
+                  "3dgis",
+                  "addon",
+                  "basemap",
+                  "blender",
+                  "delaunay-triangulation",
+                  "dem",
+                  "geodata",
+                  "georeferencing",
+                  "geospatial",
+                  "gis",
+                  "importexport",
+                  "map",
+                  "openstreetmap",
+                  "python",
+                  "raster",
+                  "shapefile",
+                  "terrain-model"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -786,12 +1275,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Complete Street Rule for ArcGIS CityEngine is a scenario oriented design tool intended to enable users to quickly create procedurally generated multimodal streets. ",
+                "homepage": "https://geonet.esri.com/docs/DOC-6915",
                 "id": 41718290,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-23T05:12:34Z",
+                "open_issues": 2,
                 "owner": "d-wasserman",
                 "repo": "Complete_Street_Rule",
-                "stars": 217
+                "stars": 217,
+                "topics": [
+                  "arcgis-cityengine",
+                  "cga",
+                  "cityengine",
+                  "complete",
+                  "environmental-modelling",
+                  "geometry",
+                  "procedural-generation",
+                  "simulation",
+                  "street-configuration",
+                  "street-rule",
+                  "streets",
+                  "transportation",
+                  "treatments",
+                  "urban-design",
+                  "urban-planning"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -809,12 +1319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Platform for building statistical models of cities and regions",
+                "homepage": "https://udst.github.io/urbansim/",
                 "id": 12128390,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-21T10:01:23Z",
+                "open_issues": 26,
                 "owner": "UDST",
                 "repo": "urbansim",
-                "stars": 544
+                "stars": 544,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -832,12 +1347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated mapping of pedestrian networks from aerial imagery tiles",
+                "homepage": null,
                 "id": 482000439,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-23T11:29:35Z",
+                "open_issues": 6,
                 "owner": "VIDA-NYU",
                 "repo": "tile2net",
-                "stars": 225
+                "stars": 225,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -861,12 +1381,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
+                "homepage": "https://www.thataicollection.com/",
                 "id": 584639396,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-15T09:47:26Z",
+                "open_issues": 24,
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9135
+                "stars": 9135,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "assistant-chat-bots",
+                  "assistive-technology",
+                  "awesome",
+                  "awesome-list",
+                  "collections",
+                  "generative-art",
+                  "generative-design",
+                  "generative-music",
+                  "generative-testing",
+                  "generative-text",
+                  "software-development"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -877,12 +1416,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.",
+                "homepage": null,
                 "id": 52671720,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
+                "open_issues": 63,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5503
+                "stars": 5503,
+                "topics": [
+                  "awesome",
+                  "geo",
+                  "geospatial",
+                  "geospatial-library",
+                  "geotools",
+                  "gis",
+                  "map",
+                  "spatial-analysis"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -893,12 +1446,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc",
+                "homepage": "https://opensustain.tech",
                 "id": 296566912,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-28T07:26:23Z",
+                "open_issues": 77,
                 "owner": "protontypes",
                 "repo": "open-sustainable-technology",
-                "stars": 2545
+                "stars": 2545,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "biodiversity",
+                  "carbon-emissions",
+                  "climate",
+                  "climate-change",
+                  "climate-data",
+                  "climate-science",
+                  "earth-science",
+                  "energy",
+                  "energy-consumption",
+                  "energy-data",
+                  "geoscience",
+                  "ocean",
+                  "photovoltaic",
+                  "renewable-energy",
+                  "renewables",
+                  "sustainability",
+                  "sustainable-development-goals",
+                  "wind-turbine"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -909,12 +1488,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeoJSON utilities that will make your life easier.",
+                "homepage": null,
                 "id": 36456042,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-23T13:51:40Z",
+                "open_issues": 1,
                 "owner": "tmcw",
                 "repo": "awesome-geojson",
-                "stars": 2531
+                "stars": 2531,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "geojson",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -925,12 +1514,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source technology for agriculture, farming, and gardening",
+                "homepage": null,
                 "id": 131012870,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-05T18:48:16Z",
+                "open_issues": 15,
                 "owner": "brycejohnston",
                 "repo": "awesome-agriculture",
-                "stars": 1864
+                "stars": 1864,
+                "topics": [
+                  "agricultural",
+                  "agriculture",
+                  "awesome",
+                  "awesome-list",
+                  "crop",
+                  "farm",
+                  "farming",
+                  "gardening",
+                  "grower",
+                  "plants",
+                  "soil",
+                  "weather"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -941,12 +1548,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",
+                "homepage": null,
                 "id": 40631174,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-24T14:45:42Z",
+                "open_issues": 20,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1823
+                "stars": 1823,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bus",
+                  "datasets",
+                  "gtfs",
+                  "gtfs-analysis",
+                  "gtfs-converters",
+                  "gtfs-feed",
+                  "gtfs-files",
+                  "gtfs-libraries",
+                  "gtfs-realtime",
+                  "gtfs-utils",
+                  "gtfs-validator",
+                  "list",
+                  "realtime-data",
+                  "tools",
+                  "transit",
+                  "transit-agencies",
+                  "transit-data",
+                  "transit-map"
+                ]
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             },
@@ -957,12 +1590,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community list of shared micromobility APIs, apps, datasets, research, and software",
+                "homepage": null,
                 "id": 204798459,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-10-04T16:39:32Z",
+                "open_issues": 0,
                 "owner": "MobilityData",
                 "repo": "gbfs-tools-and-resources",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
             }
@@ -976,15 +1614,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:00:56.263Z",
+    "last_updated": "2026-08-29T04:46:20.159Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
+      "homepage": null,
       "id": 290361286,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-13T04:07:40Z",
+      "open_issues": 3,
       "owner": "APA-Technology-Division",
       "repo": "urban-and-regional-planning-resources",
-      "stars": 360
+      "stars": 360,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "built-environment",
+        "communities",
+        "data",
+        "hacktoberfest",
+        "planners",
+        "planning",
+        "regional-planning",
+        "resources",
+        "sustainability",
+        "technology",
+        "urban-planning"
+      ]
     },
     "original_repository_sha": "b9234b6708ceb64511b63d3b14de2dacd7443d19",
     "enhanced_repository": "enhansome/enhansome-urban-and-regional-planning-resources",
