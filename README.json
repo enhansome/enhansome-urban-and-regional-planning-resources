@@ -49,7 +49,7 @@
                 "open_issues": 99,
                 "owner": "censusreporter",
                 "repo": "censusreporter",
-                "stars": 828,
+                "stars": 829,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
@@ -420,7 +420,7 @@
                 "open_issues": 24,
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14183,
+                "stars": 14190,
                 "topics": [
                   "cartography",
                   "generative-art",
@@ -445,11 +445,11 @@
                 "id": 9952134,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T15:56:20Z",
+                "last_commit": "2026-09-06T16:06:22Z",
                 "open_issues": 68,
                 "owner": "python-visualization",
                 "repo": "folium",
-                "stars": 7396,
+                "stars": 7398,
                 "topics": [
                   "data-science",
                   "data-visualization",
@@ -597,11 +597,11 @@
                 "id": 14116604,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T16:18:20Z",
-                "open_issues": 157,
+                "last_commit": "2026-09-05T23:15:51Z",
+                "open_issues": 156,
                 "owner": "rasterio",
                 "repo": "rasterio",
-                "stars": 2568,
+                "stars": 2569,
                 "topics": [
                   "cli",
                   "cython",
@@ -627,7 +627,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-04T14:04:10Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "eskerda",
                 "repo": "pybikes",
                 "stars": 606,
@@ -1071,7 +1071,7 @@
                 "open_issues": 588,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67683,
+                "stars": 67682,
                 "topics": [
                   "canvas",
                   "chart",
@@ -1099,7 +1099,7 @@
                 "open_issues": 285,
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10470,
+                "stars": 10472,
                 "topics": [
                   "algorithm",
                   "computational-geometry",
@@ -1192,8 +1192,8 @@
                 "id": 49491341,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T12:30:21Z",
-                "open_issues": 123,
+                "last_commit": "2026-09-06T18:06:06Z",
+                "open_issues": 124,
                 "owner": "architecture-building-systems",
                 "repo": "CityEnergyAnalyst",
                 "stars": 274,
@@ -1236,7 +1236,7 @@
                 "open_issues": 321,
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9347,
+                "stars": 9349,
                 "topics": [
                   "3d",
                   "3d-map",
@@ -1386,7 +1386,7 @@
                 "id": 584639396,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-04T16:24:14Z",
+                "last_commit": "2026-09-06T06:31:17Z",
                 "open_issues": 24,
                 "owner": "ai-collection",
                 "repo": "ai-collection",
@@ -1425,7 +1425,7 @@
                 "open_issues": 68,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5513,
+                "stars": 5514,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1520,10 +1520,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-01-05T18:48:16Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "brycejohnston",
                 "repo": "awesome-agriculture",
-                "stars": 1868,
+                "stars": 1869,
                 "topics": [
                   "agricultural",
                   "agriculture",
@@ -1614,7 +1614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:59:52.420Z",
+    "last_updated": "2026-09-06T21:08:34.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
