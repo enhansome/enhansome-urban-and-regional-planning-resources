@@ -420,7 +420,7 @@
                 "open_issues": 24,
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14206,
+                "stars": 14209,
                 "topics": [
                   "cartography",
                   "generative-art",
@@ -445,7 +445,7 @@
                 "id": 9952134,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T17:10:30Z",
+                "last_commit": "2026-09-10T16:59:26Z",
                 "open_issues": 70,
                 "owner": "python-visualization",
                 "repo": "folium",
@@ -514,7 +514,7 @@
                 "id": 245837930,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T13:04:03Z",
+                "last_commit": "2026-09-10T20:17:51Z",
                 "open_issues": 53,
                 "owner": "gee-community",
                 "repo": "geemap",
@@ -889,7 +889,7 @@
                 "id": 453240525,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-18T22:43:27Z",
+                "last_commit": "2026-09-09T22:17:57Z",
                 "open_issues": 6,
                 "owner": "tariqshihadah",
                 "repo": "linref",
@@ -1071,7 +1071,7 @@
                 "open_issues": 588,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67688,
+                "stars": 67691,
                 "topics": [
                   "canvas",
                   "chart",
@@ -1096,10 +1096,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-07T19:17:44Z",
-                "open_issues": 285,
+                "open_issues": 287,
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10474,
+                "stars": 10475,
                 "topics": [
                   "algorithm",
                   "computational-geometry",
@@ -1236,7 +1236,7 @@
                 "open_issues": 321,
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9363,
+                "stars": 9369,
                 "topics": [
                   "3d",
                   "3d-map",
@@ -1386,11 +1386,11 @@
                 "id": 584639396,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-09T14:25:30Z",
+                "last_commit": "2026-09-10T15:15:19Z",
                 "open_issues": 24,
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9146,
+                "stars": 9148,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1425,7 +1425,7 @@
                 "open_issues": 67,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5516,
+                "stars": 5515,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1455,7 +1455,7 @@
                 "open_issues": 78,
                 "owner": "protontypes",
                 "repo": "open-sustainable-technology",
-                "stars": 2547,
+                "stars": 2548,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1557,7 +1557,7 @@
                 "open_issues": 21,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1829,
+                "stars": 1831,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1614,7 +1614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:32:29.754Z",
+    "last_updated": "2026-09-10T21:28:33.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
