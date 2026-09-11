@@ -420,7 +420,7 @@
                 "open_issues": 24,
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14209,
+                "stars": 14213,
                 "topics": [
                   "cartography",
                   "generative-art",
@@ -445,7 +445,7 @@
                 "id": 9952134,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T16:59:26Z",
+                "last_commit": "2026-09-11T17:01:45Z",
                 "open_issues": 70,
                 "owner": "python-visualization",
                 "repo": "folium",
@@ -476,7 +476,7 @@
                 "open_issues": 2,
                 "owner": "gboeing",
                 "repo": "osmnx",
-                "stars": 5837,
+                "stars": 5840,
                 "topics": [
                   "geography",
                   "geospatial",
@@ -514,11 +514,11 @@
                 "id": 245837930,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T20:17:51Z",
-                "open_issues": 53,
+                "last_commit": "2026-09-11T18:10:30Z",
+                "open_issues": 52,
                 "owner": "gee-community",
                 "repo": "geemap",
-                "stars": 4023,
+                "stars": 4024,
                 "topics": [
                   "colab",
                   "data-science",
@@ -601,7 +601,7 @@
                 "open_issues": 156,
                 "owner": "rasterio",
                 "repo": "rasterio",
-                "stars": 2571,
+                "stars": 2572,
                 "topics": [
                   "cli",
                   "cython",
@@ -672,7 +672,7 @@
                 "open_issues": 18,
                 "owner": "oturns",
                 "repo": "geosnap",
-                "stars": 275,
+                "stars": 276,
                 "topics": [
                   "geodemographics",
                   "neighborhood-dynamics",
@@ -1067,8 +1067,8 @@
                 "id": 8843683,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-05-27T21:17:31Z",
-                "open_issues": 588,
+                "last_commit": "2026-09-11T02:44:42Z",
+                "open_issues": 582,
                 "owner": "chartjs",
                 "repo": "Chart.js",
                 "stars": 67691,
@@ -1099,7 +1099,7 @@
                 "open_issues": 287,
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10475,
+                "stars": 10479,
                 "topics": [
                   "algorithm",
                   "computational-geometry",
@@ -1192,7 +1192,7 @@
                 "id": 49491341,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T16:07:54Z",
+                "last_commit": "2026-09-11T16:19:06Z",
                 "open_issues": 124,
                 "owner": "architecture-building-systems",
                 "repo": "CityEnergyAnalyst",
@@ -1236,7 +1236,7 @@
                 "open_issues": 321,
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9369,
+                "stars": 9371,
                 "topics": [
                   "3d",
                   "3d-map",
@@ -1356,7 +1356,7 @@
                 "open_issues": 7,
                 "owner": "VIDA-NYU",
                 "repo": "tile2net",
-                "stars": 226,
+                "stars": 227,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
@@ -1387,10 +1387,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-10T15:15:19Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9148,
+                "stars": 9149,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1422,10 +1422,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5515,
+                "stars": 5519,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1614,7 +1614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:28:33.963Z",
+    "last_updated": "2026-09-11T21:35:24.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
@@ -1622,11 +1622,11 @@
       "id": 290361286,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-07-13T04:07:40Z",
+      "last_commit": "2026-09-10T22:05:02Z",
       "open_issues": 2,
       "owner": "APA-Technology-Division",
       "repo": "urban-and-regional-planning-resources",
-      "stars": 360,
+      "stars": 362,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1643,7 +1643,7 @@
         "urban-planning"
       ]
     },
-    "original_repository_sha": "b9234b6708ceb64511b63d3b14de2dacd7443d19",
+    "original_repository_sha": "8c9b9535f0f5151217b6088120862e0eb5297778",
     "enhanced_repository": "enhansome/enhansome-urban-and-regional-planning-resources",
     "enhanced_repository_description": null,
     "title": "Awesome Urban & Regional Planning Resources with stars"
