@@ -420,7 +420,7 @@
                 "open_issues": 24,
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14221,
+                "stars": 14225,
                 "topics": [
                   "cartography",
                   "generative-art",
@@ -445,7 +445,7 @@
                 "id": 9952134,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T16:08:48Z",
+                "last_commit": "2026-09-13T16:56:24Z",
                 "open_issues": 70,
                 "owner": "python-visualization",
                 "repo": "folium",
@@ -476,7 +476,7 @@
                 "open_issues": 3,
                 "owner": "gboeing",
                 "repo": "osmnx",
-                "stars": 5841,
+                "stars": 5842,
                 "topics": [
                   "geography",
                   "geospatial",
@@ -601,7 +601,7 @@
                 "open_issues": 156,
                 "owner": "rasterio",
                 "repo": "rasterio",
-                "stars": 2574,
+                "stars": 2575,
                 "topics": [
                   "cli",
                   "cython",
@@ -1067,8 +1067,8 @@
                 "id": 8843683,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T02:44:42Z",
-                "open_issues": 584,
+                "last_commit": "2026-09-13T13:25:51Z",
+                "open_issues": 579,
                 "owner": "chartjs",
                 "repo": "Chart.js",
                 "stars": 67694,
@@ -1099,7 +1099,7 @@
                 "open_issues": 287,
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10481,
+                "stars": 10482,
                 "topics": [
                   "algorithm",
                   "computational-geometry",
@@ -1192,8 +1192,8 @@
                 "id": 49491341,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-12T19:27:49Z",
-                "open_issues": 125,
+                "last_commit": "2026-09-13T20:49:02Z",
+                "open_issues": 124,
                 "owner": "architecture-building-systems",
                 "repo": "CityEnergyAnalyst",
                 "stars": 274,
@@ -1284,7 +1284,7 @@
                 "open_issues": 2,
                 "owner": "d-wasserman",
                 "repo": "Complete_Street_Rule",
-                "stars": 217,
+                "stars": 216,
                 "topics": [
                   "arcgis-cityengine",
                   "cga",
@@ -1425,7 +1425,7 @@
                 "open_issues": 68,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5519,
+                "stars": 5520,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1557,7 +1557,7 @@
                 "open_issues": 21,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1831,
+                "stars": 1833,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1614,7 +1614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:18:08.163Z",
+    "last_updated": "2026-09-13T21:16:25.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
