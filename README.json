@@ -21,7 +21,7 @@
                 "open_issues": 47,
                 "owner": "microsoft",
                 "repo": "USBuildingFootprints",
-                "stars": 2256,
+                "stars": 2257,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
@@ -45,11 +45,11 @@
                 "id": 10183514,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-28T01:31:22Z",
+                "last_commit": "2026-09-24T18:20:30Z",
                 "open_issues": 98,
                 "owner": "censusreporter",
                 "repo": "censusreporter",
-                "stars": 832,
+                "stars": 833,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
@@ -166,7 +166,7 @@
                 "open_issues": 6,
                 "owner": "MobilityData",
                 "repo": "gbfs",
-                "stars": 917,
+                "stars": 919,
                 "topics": [
                   "bike-share",
                   "bike-sharing",
@@ -420,7 +420,7 @@
                 "open_issues": 24,
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14258,
+                "stars": 14261,
                 "topics": [
                   "cartography",
                   "generative-art",
@@ -445,7 +445,7 @@
                 "id": 9952134,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T17:53:26Z",
+                "last_commit": "2026-09-24T17:53:20Z",
                 "open_issues": 71,
                 "owner": "python-visualization",
                 "repo": "folium",
@@ -476,7 +476,7 @@
                 "open_issues": 3,
                 "owner": "gboeing",
                 "repo": "osmnx",
-                "stars": 5854,
+                "stars": 5853,
                 "topics": [
                   "geography",
                   "geospatial",
@@ -514,11 +514,11 @@
                 "id": 245837930,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T15:43:23Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-24T20:18:45Z",
+                "open_issues": 50,
                 "owner": "gee-community",
                 "repo": "geemap",
-                "stars": 4031,
+                "stars": 4033,
                 "topics": [
                   "colab",
                   "data-science",
@@ -626,7 +626,7 @@
                 "id": 778569,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-23T14:46:12Z",
+                "last_commit": "2026-09-24T14:41:34Z",
                 "open_issues": 34,
                 "owner": "eskerda",
                 "repo": "pybikes",
@@ -1068,10 +1068,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-14T14:56:56Z",
-                "open_issues": 583,
+                "open_issues": 587,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67718,
+                "stars": 67719,
                 "topics": [
                   "canvas",
                   "chart",
@@ -1390,7 +1390,7 @@
                 "open_issues": 22,
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9172,
+                "stars": 9170,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1422,10 +1422,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5535,
+                "stars": 5536,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1497,7 +1497,7 @@
                 "open_issues": 1,
                 "owner": "tmcw",
                 "repo": "awesome-geojson",
-                "stars": 2542,
+                "stars": 2543,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1614,7 +1614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:07:10.090Z",
+    "last_updated": "2026-09-24T22:06:32.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
