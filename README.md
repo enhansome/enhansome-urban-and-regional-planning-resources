@@ -1,10 +1,10 @@
 # Awesome Urban & Regional Planning Resources with stars
 
-[![GitHub stars](https://img.shields.io/github/stars/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/stargazers) ⭐ 364 | 🐛 4 | 📅 2026-09-25
-[![GitHub forks](https://img.shields.io/github/forks/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources) ⭐ 364 | 🐛 4 | 📅 2026-09-25
+[![GitHub stars](https://img.shields.io/github/stars/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources)
 ![GitHub contributors](https://img.shields.io/github/contributors/APA-Technology-Division/urban-and-regional-planning-resources)
 ![GitHub last commit](https://img.shields.io/github/last-commit/APA-Technology-Division/urban-and-regional-planning-resources)
-[![GitHub license](https://img.shields.io/github/license/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/LICENSE) ⭐ 364 | 🐛 4 | 📅 2026-09-25
+[![GitHub license](https://img.shields.io/github/license/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/LICENSE)
 
 This repository contains a curated list of different urban & regional planning data & technology resources. Those interested in the built environment are invited to review and contribute to this repository.
 
@@ -12,7 +12,7 @@ This repository contains a curated list of different urban & regional planning d
 
 #### Sponsors
 
-The Technology's Division's Resource Repository is [sponsored](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/resources/Division_Sponsorship_Package_23.pdf) ⭐ 364 | 🐛 4 | 📅 2026-09-25 by the following companies and organizations.
+The Technology's Division's Resource Repository is [sponsored](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/resources/Division_Sponsorship_Package_23.pdf) by the following companies and organizations.
 
 <div style=text-align:center;>
 		<br>
@@ -413,7 +413,7 @@ Other coding special projects and/or other resources.
 
 Front-end web related packages and resources.
 
-* [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub](https://github.com/chartjs/Chart.js) ⭐ 67,729 | 🐛 594 | 🌐 JavaScript | 📅 2026-10-02.
+* [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub](https://github.com/chartjs/Chart.js) ⭐ 67,730 | 🐛 594 | 🌐 JavaScript | 📅 2026-10-02.
 * [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf) ⭐ 10,503 | 🐛 290 | 🌐 TypeScript | 📅 2026-09-30.
 * [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) ⭐ 1 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-04 - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 * [Bootstrap](https://getbootstrap.com/) - Widely-used, well documented library for quick design and customization of websites. Additional Information: [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
@@ -483,7 +483,7 @@ Software, tools, and platforms intended to aid environmental planning or climate
 
 Software, tools, and platforms for geospatial visualization.
 
-* [BlenderGIS](https://github.com/domlysz/BlenderGIS) ⭐ 9,437 | 🐛 332 | 🌐 Python | 📅 2025-12-20 - A free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
+* [BlenderGIS](https://github.com/domlysz/BlenderGIS) ⭐ 9,438 | 🐛 332 | 🌐 Python | 📅 2025-12-20 - A free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
 * [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (ESRI).
 * [QGIS](https://qgis.org/en/site/) - This open source GIS suite allows users to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD and mobile devices.
 * [CARTO](https://carto.com/) - A world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
@@ -626,11 +626,11 @@ Other types of planning data & technology resources. They are a good source of i
 
 This page is registered as an [awesome-list](https://github.com/topics/awesome-list), but similar GitHub repositories can be listed here. These are managed curations of resources that relate to different topics.
 
-* [ai-collection](https://github.com/ai-collection/ai-collection) ⭐ 9,178 | 🐛 24 | 📅 2026-10-02 - Review of the generative AI landscape including tools/utilities.
+* [ai-collection](https://github.com/ai-collection/ai-collection) ⭐ 9,180 | 🐛 24 | 📅 2026-10-02 - Review of the generative AI landscape including tools/utilities.
 * [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,549 | 🐛 88 | 📅 2026-07-21 - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 * [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) ⭐ 2,558 | 🐛 86 | 📅 2026-10-02 - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
 * [awesome-geojson](https://github.com/tmcw/awesome-geojson) ⭐ 2,545 | 🐛 1 | 📅 2026-09-23 - GeoJSON utilities that will make your life easier.
-* [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) ⭐ 1,891 | 🐛 21 | 📅 2026-01-05 - Open source technology for agriculture, farming, and gardening.
+* [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) ⭐ 1,893 | 🐛 21 | 📅 2026-01-05 - Open source technology for agriculture, farming, and gardening.
 * [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) ⭐ 1,849 | 🐛 18 | 📅 2026-09-21 - A collection of transit data tools and resources.
 * [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) ⭐ 33 | 🐛 0 | 📅 2022-10-04 - A collection of micromobility tools and data resources.
 
@@ -658,7 +658,7 @@ If you don't have a GitHub, but have a resources that falls into the categories 
 
 ### GitHub Contributions
 
-We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/CONTRIBUTING.md) ⭐ 364 | 🐛 4 | 📅 2026-09-25 page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this shared resource will be recorded.
+We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/CONTRIBUTING.md) page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this shared resource will be recorded.
 
 ## License and Citation
 
@@ -670,4 +670,4 @@ urban-and-regional-planning-resources. (2020) APA Technology Division. Taken fro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

@@ -1071,7 +1071,7 @@
                 "open_issues": 594,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67729,
+                "stars": 67730,
                 "topics": [
                   "canvas",
                   "chart",
@@ -1236,7 +1236,7 @@
                 "open_issues": 332,
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9437,
+                "stars": 9438,
                 "topics": [
                   "3d",
                   "3d-map",
@@ -1390,7 +1390,7 @@
                 "open_issues": 24,
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9178,
+                "stars": 9180,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1523,7 +1523,7 @@
                 "open_issues": 21,
                 "owner": "brycejohnston",
                 "repo": "awesome-agriculture",
-                "stars": 1891,
+                "stars": 1893,
                 "topics": [
                   "agricultural",
                   "agriculture",
@@ -1614,7 +1614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:50:31.388Z",
+    "last_updated": "2026-10-03T05:11:32.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
