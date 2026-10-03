@@ -21,7 +21,7 @@
                 "open_issues": 47,
                 "owner": "microsoft",
                 "repo": "USBuildingFootprints",
-                "stars": 2260,
+                "stars": 2262,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
@@ -420,7 +420,7 @@
                 "open_issues": 24,
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14284,
+                "stars": 14286,
                 "topics": [
                   "cartography",
                   "generative-art",
@@ -446,7 +446,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T08:24:36Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "python-visualization",
                 "repo": "folium",
                 "stars": 7408,
@@ -476,7 +476,7 @@
                 "open_issues": 3,
                 "owner": "gboeing",
                 "repo": "osmnx",
-                "stars": 5858,
+                "stars": 5859,
                 "topics": [
                   "geography",
                   "geospatial",
@@ -1067,8 +1067,8 @@
                 "id": 8843683,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T13:43:54Z",
-                "open_issues": 594,
+                "last_commit": "2026-10-03T07:08:12Z",
+                "open_issues": 592,
                 "owner": "chartjs",
                 "repo": "Chart.js",
                 "stars": 67730,
@@ -1099,7 +1099,7 @@
                 "open_issues": 290,
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10503,
+                "stars": 10504,
                 "topics": [
                   "algorithm",
                   "computational-geometry",
@@ -1236,7 +1236,7 @@
                 "open_issues": 332,
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9438,
+                "stars": 9441,
                 "topics": [
                   "3d",
                   "3d-map",
@@ -1386,7 +1386,7 @@
                 "id": 584639396,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-02T05:52:27Z",
+                "last_commit": "2026-10-03T12:09:00Z",
                 "open_issues": 24,
                 "owner": "ai-collection",
                 "repo": "ai-collection",
@@ -1425,7 +1425,7 @@
                 "open_issues": 88,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5549,
+                "stars": 5548,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1523,7 +1523,7 @@
                 "open_issues": 21,
                 "owner": "brycejohnston",
                 "repo": "awesome-agriculture",
-                "stars": 1893,
+                "stars": 1894,
                 "topics": [
                   "agricultural",
                   "agriculture",
@@ -1614,7 +1614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:11:32.956Z",
+    "last_updated": "2026-10-03T22:01:44.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
