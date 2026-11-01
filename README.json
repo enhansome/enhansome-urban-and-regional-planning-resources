@@ -77,7 +77,7 @@
                 "open_issues": 1,
                 "owner": "mtmleczko",
                 "repo": "nzlud",
-                "stars": 73,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
@@ -430,7 +430,7 @@
                 "open_issues": 24,
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14321,
+                "stars": 14320,
                 "topics": [
                   "cartography",
                   "generative-art",
@@ -455,11 +455,11 @@
                 "id": 9952134,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T17:36:44Z",
-                "open_issues": 76,
+                "last_commit": "2026-11-01T18:22:38Z",
+                "open_issues": 77,
                 "owner": "python-visualization",
                 "repo": "folium",
-                "stars": 7414,
+                "stars": 7413,
                 "topics": [
                   "data-science",
                   "data-visualization",
@@ -486,7 +486,7 @@
                 "open_issues": 5,
                 "owner": "gboeing",
                 "repo": "osmnx",
-                "stars": 5885,
+                "stars": 5886,
                 "topics": [
                   "geography",
                   "geospatial",
@@ -567,7 +567,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-31T04:57:31Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "opengeos",
                 "repo": "leafmap",
                 "stars": 3794,
@@ -611,7 +611,7 @@
                 "open_issues": 151,
                 "owner": "rasterio",
                 "repo": "rasterio",
-                "stars": 2590,
+                "stars": 2591,
                 "topics": [
                   "cli",
                   "cython",
@@ -661,7 +661,7 @@
                 "open_issues": 18,
                 "owner": "UDST",
                 "repo": "urbansim",
-                "stars": 556,
+                "stars": 557,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
@@ -1109,7 +1109,7 @@
                 "open_issues": 295,
                 "owner": "Turfjs",
                 "repo": "turf",
-                "stars": 10525,
+                "stars": 10527,
                 "topics": [
                   "algorithm",
                   "computational-geometry",
@@ -1246,7 +1246,7 @@
                 "open_issues": 335,
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9559,
+                "stars": 9561,
                 "topics": [
                   "3d",
                   "3d-map",
@@ -1338,7 +1338,7 @@
                 "open_issues": 18,
                 "owner": "UDST",
                 "repo": "urbansim",
-                "stars": 556,
+                "stars": 557,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:56.263Z"
@@ -1400,7 +1400,7 @@
                 "open_issues": 27,
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9261,
+                "stars": 9263,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1432,10 +1432,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 124,
+                "open_issues": 126,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5607,
+                "stars": 5608,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1461,11 +1461,11 @@
                 "id": 296566912,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-30T12:58:08Z",
-                "open_issues": 92,
+                "last_commit": "2026-11-01T05:08:41Z",
+                "open_issues": 93,
                 "owner": "protontypes",
                 "repo": "open-sustainable-technology",
-                "stars": 2580,
+                "stars": 2581,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1567,7 +1567,7 @@
                 "open_issues": 34,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1862,
+                "stars": 1863,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1624,7 +1624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:19:45.612Z",
+    "last_updated": "2026-11-01T22:37:19.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
