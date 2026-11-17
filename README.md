@@ -323,13 +323,13 @@ A collection of urban planning related data specifications and standards for use
 
 ### Transportation
 
-* [GBFS](https://github.com/NABSA/gbfs) ⭐ 927 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-09 - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
+* [GBFS](https://github.com/NABSA/gbfs) ⭐ 928 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-09 - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
 * [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) ⭐ 754 | 🐛 27 | 📅 2026-09-09 - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
 * [SharedStreets](https://www.sharedstreets.io) - Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system) ⭐ 193 | 🐛 12 | 📅 2023-02-24
 * [GMNS](https://github.com/zephyr-data-specs/GMNS) ⭐ 135 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2026-09-01 - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 * [GTFS-flex](https://github.com/MobilityData/gtfs-flex) ⭐ 124 | 🐛 10 | 📅 2024-04-16 - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
 * [CDS](https://github.com/openmobilityfoundation/curb-data-specification) ⭐ 69 | 🐛 19 | 📅 2025-10-27 - The Curb Data Specification provides data specifications for curb regulations alongside a connected event and metrics API intended to help cities manage their curb zone programs and surrounding areas, and measure the utilization and impact.
-* [OpenSidewalks](https://github.com/OpenSidewalks/OpenSidewalks-Schema) ⭐ 63 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-06 - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
+* [OpenSidewalks](https://github.com/OpenSidewalks/OpenSidewalks-Schema) ⭐ 63 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-16 - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
 * [shared-row](https://github.com/d-wasserman/shared-row) ⭐ 19 | 🐛 3 | 📅 2026-09-18 - A data specification designed to represent the full cross-section of the right-of-way, integrating pedestrian, bicycle, and roadway elements into a unified dataset.
 * [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) ⭐ 10 | 🐛 17 | 📅 2018-02-09 - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
 * [CurbLR](https://www.curblr.org) - An open data specification for curb regulations maintained by SharedStreets. Additional Information: [GitHub](https://www.github.com/sharedstreets/curblr), Demo: Interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
@@ -351,12 +351,12 @@ This is a curated list of Python, R, and other open-source libraries or programm
 
 Python Libraries & Related Resources.
 
-* [Prettymaps](https://github.com/marceloprates/prettymaps) ⭐ 14,340 | 🐛 24 | 🌐 Python | 📅 2026-07-30 - A small set of Python functions to draw pretty maps from OpenStreetMap data.
-* [Folium](https://github.com/python-visualization/folium) ⭐ 7,420 | 🐛 61 | 🌐 Python | 📅 2026-11-15 - A light weight library that uses leaflet to visualize geospatial data quickly in an interactive map.
-* [OSMnx](https://github.com/gboeing/osmnx) ⭐ 5,900 | 🐛 1 | 🌐 Python | 📅 2026-11-15 - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
-* [Geemap](https://github.com/giswqs/geemap) ⭐ 4,071 | 🐛 55 | 🌐 Python | 📅 2026-11-13 - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
-* [Leafmap](https://github.com/giswqs/leafmap) ⭐ 3,801 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - A free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) ⭐ 1,227 | 🐛 175 | 🌐 Rust | 📅 2026-05-26). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
-* [rasterio](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) ⭐ 2,593 | 🐛 156 | 🌐 Python | 📅 2026-11-03 - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
+* [Prettymaps](https://github.com/marceloprates/prettymaps) ⭐ 14,345 | 🐛 24 | 🌐 Python | 📅 2026-07-30 - A small set of Python functions to draw pretty maps from OpenStreetMap data.
+* [Folium](https://github.com/python-visualization/folium) ⭐ 7,422 | 🐛 66 | 🌐 Python | 📅 2026-11-16 - A light weight library that uses leaflet to visualize geospatial data quickly in an interactive map.
+* [OSMnx](https://github.com/gboeing/osmnx) ⭐ 5,901 | 🐛 1 | 🌐 Python | 📅 2026-11-17 - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
+* [Geemap](https://github.com/giswqs/geemap) ⭐ 4,072 | 🐛 55 | 🌐 Python | 📅 2026-11-13 - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
+* [Leafmap](https://github.com/giswqs/leafmap) ⭐ 3,802 | 🐛 2 | 🌐 Python | 📅 2026-11-16 - A free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) ⭐ 1,227 | 🐛 175 | 🌐 Rust | 📅 2026-05-26). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
+* [rasterio](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) ⭐ 2,595 | 🐛 156 | 🌐 Python | 📅 2026-11-03 - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
 * [Pybikes](https://github.com/eskerda/pybikes) ⭐ 610 | 🐛 33 | 🌐 Python | 📅 2026-11-15 - Provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 * [UrbanSim](https://github.com/udst/urbansim) ⭐ 558 | 🐛 18 | 🌐 Python | 📅 2026-10-26 - A platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
 * [Geosnap](https://github.com/spatialucr/geosnap) ⭐ 278 | 🐛 19 | 🌐 Python | 📅 2026-03-09 - Geospatial & temporal neighborhood analysis using US Census Data.
@@ -386,7 +386,7 @@ Python Libraries & Related Resources.
 
 R Packages & Related Resources.
 
-* [Rgee](https://github.com/r-spatial/rgee) ⭐ 778 | 🐛 64 | 🌐 R | 📅 2026-11-09 - Is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
+* [Rgee](https://github.com/r-spatial/rgee) ⭐ 778 | 🐛 64 | 🌐 R | 📅 2026-11-16 - Is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
 * [leafgl](https://github.com/r-spatial/leafgl) ⭐ 288 | 🐛 23 | 🌐 R | 📅 2026-04-15 - R package for fast web-gl rendering for leaflet maps.
 * [r5r](https://github.com/ipeaGIT/r5r) ⭐ 246 | 🐛 27 | 🌐 R | 📅 2026-11-09 - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
 * [R Shiny](https://shiny.rstudio.com/) - Create dynamic, web-friendly visualizations of data using R. Additional Information: [Shiny Tutorial](https://shiny.rstudio.com/tutorial/).
@@ -413,8 +413,8 @@ Other coding special projects and/or other resources.
 
 Front-end web related packages and resources.
 
-* [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub](https://github.com/chartjs/Chart.js) ⭐ 67,795 | 🐛 651 | 🌐 JavaScript | 📅 2026-11-09.
-* [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf) ⭐ 10,547 | 🐛 302 | 🌐 TypeScript | 📅 2026-11-11.
+* [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub](https://github.com/chartjs/Chart.js) ⭐ 67,801 | 🐛 638 | 🌐 JavaScript | 📅 2026-11-09.
+* [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf) ⭐ 10,549 | 🐛 302 | 🌐 TypeScript | 📅 2026-11-11.
 * [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) ⭐ 1 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-04 - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 * [Bootstrap](https://getbootstrap.com/) - Widely-used, well documented library for quick design and customization of websites. Additional Information: [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 * [Leaflet](https://leafletjs.com/) - Open-source JavaScript library for mobile-friendly interactive maps. Plugins available to extend functionality (e.g., storymaps, heatmaps, animation). Additional Information: [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
@@ -469,7 +469,7 @@ Software, tools, and platforms that help planners understanding the economic imp
 
 Software, tools, and platforms intended to aid environmental planning or climate adaptation & mitigation planning.
 
-* [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) ⭐ 286 | 🐛 131 | 🌐 Python | 📅 2026-11-07 tools for the analysis and optimization of urban energy systems.
+* [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) ⭐ 287 | 🐛 133 | 🌐 Python | 📅 2026-11-16 tools for the analysis and optimization of urban energy systems.
 * [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool) - Integrates information from across the federal government to help people consider their local exposure to climate-related hazards. People working in community organizations or public agencies can use the site to help them develop equitable climate resilience plans to protect people, property, and infrastructure. Additional Information: [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
 * [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
 * [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus) - FEMA's Hazus Program provides standardized tools and data for estimating risk from earthquakes, floods, tsunamis, and hurricanes. Risk assessment resources and tools from the Hazus program are always freely available and transparently developed.
@@ -483,7 +483,7 @@ Software, tools, and platforms intended to aid environmental planning or climate
 
 Software, tools, and platforms for geospatial visualization.
 
-* [BlenderGIS](https://github.com/domlysz/BlenderGIS) ⭐ 9,631 | 🐛 336 | 🌐 Python | 📅 2025-12-20 - A free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
+* [BlenderGIS](https://github.com/domlysz/BlenderGIS) ⭐ 9,640 | 🐛 336 | 🌐 Python | 📅 2025-12-20 - A free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
 * [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (ESRI).
 * [QGIS](https://qgis.org/en/site/) - This open source GIS suite allows users to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD and mobile devices.
 * [CARTO](https://carto.com/) - A world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
@@ -628,11 +628,11 @@ Other types of planning data & technology resources. They are a good source of i
 
 This page is registered as an [awesome-list](https://github.com/topics/awesome-list), but similar GitHub repositories can be listed here. These are managed curations of resources that relate to different topics.
 
-* [ai-collection](https://github.com/ai-collection/ai-collection) ⭐ 9,283 | 🐛 31 | 📅 2026-11-04 - Review of the generative AI landscape including tools/utilities.
-* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,626 | 🐛 138 | 📅 2026-07-21 - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
+* [ai-collection](https://github.com/ai-collection/ai-collection) ⭐ 9,289 | 🐛 31 | 📅 2026-11-04 - Review of the generative AI landscape including tools/utilities.
+* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,627 | 🐛 139 | 📅 2026-07-21 - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 * [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) ⭐ 2,587 | 🐛 97 | 📅 2026-11-12 - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
 * [awesome-geojson](https://github.com/tmcw/awesome-geojson) ⭐ 2,555 | 🐛 1 | 📅 2026-11-12 - GeoJSON utilities that will make your life easier.
-* [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) ⭐ 1,923 | 🐛 9 | 📅 2026-11-14 - Open source technology for agriculture, farming, and gardening.
+* [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) ⭐ 1,924 | 🐛 10 | 📅 2026-11-14 - Open source technology for agriculture, farming, and gardening.
 * [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) ⭐ 1,867 | 🐛 37 | 📅 2026-11-11 - A collection of transit data tools and resources.
 * [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) ⭐ 33 | 🐛 0 | 📅 2022-10-04 - A collection of micromobility tools and data resources.
 
@@ -673,4 +673,4 @@ urban-and-regional-planning-resources. (2020) APA Technology Division. Taken fro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
