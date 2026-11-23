@@ -430,7 +430,7 @@
                 "open_issues": 24,
                 "owner": "marceloprates",
                 "repo": "prettymaps",
-                "stars": 14367,
+                "stars": 14368,
                 "topics": [
                   "cartography",
                   "generative-art",
@@ -455,7 +455,7 @@
                 "id": 9952134,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T20:02:02Z",
+                "last_commit": "2026-11-22T20:17:15Z",
                 "open_issues": 86,
                 "owner": "python-visualization",
                 "repo": "folium",
@@ -486,7 +486,7 @@
                 "open_issues": 0,
                 "owner": "gboeing",
                 "repo": "osmnx",
-                "stars": 5907,
+                "stars": 5908,
                 "topics": [
                   "geography",
                   "geospatial",
@@ -528,7 +528,7 @@
                 "open_issues": 59,
                 "owner": "gee-community",
                 "repo": "geemap",
-                "stars": 4072,
+                "stars": 4074,
                 "topics": [
                   "colab",
                   "data-science",
@@ -611,7 +611,7 @@
                 "open_issues": 158,
                 "owner": "rasterio",
                 "repo": "rasterio",
-                "stars": 2595,
+                "stars": 2596,
                 "topics": [
                   "cli",
                   "cython",
@@ -1077,11 +1077,11 @@
                 "id": 8843683,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T14:25:16Z",
-                "open_issues": 642,
+                "last_commit": "2026-11-22T21:44:20Z",
+                "open_issues": 566,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67816,
+                "stars": 67819,
                 "topics": [
                   "canvas",
                   "chart",
@@ -1246,7 +1246,7 @@
                 "open_issues": 336,
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9665,
+                "stars": 9668,
                 "topics": [
                   "3d",
                   "3d-map",
@@ -1400,7 +1400,7 @@
                 "open_issues": 30,
                 "owner": "ai-collection",
                 "repo": "ai-collection",
-                "stars": 9288,
+                "stars": 9290,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1432,10 +1432,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 146,
+                "open_issues": 147,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5634,
+                "stars": 5639,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1465,7 +1465,7 @@
                 "open_issues": 97,
                 "owner": "protontypes",
                 "repo": "open-sustainable-technology",
-                "stars": 2589,
+                "stars": 2591,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1507,7 +1507,7 @@
                 "open_issues": 1,
                 "owner": "tmcw",
                 "repo": "awesome-geojson",
-                "stars": 2557,
+                "stars": 2558,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1567,7 +1567,7 @@
                 "open_issues": 42,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1869,
+                "stars": 1870,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1624,7 +1624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:43:21.969Z",
+    "last_updated": "2026-11-23T00:03:48.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️",
